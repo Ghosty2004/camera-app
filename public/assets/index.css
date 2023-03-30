@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(90deg, #89c21e 0%, #00bfff 100%); 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+canvas {
+    background-color: white;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 1vw;
+    display: block;
+    max-width: 600px;
+}
