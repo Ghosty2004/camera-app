@@ -7,9 +7,7 @@
 2. Install all dependencies with `npm install` command
 3. Create a copy with `.env.example` and rename it to `.env`
 
-### <ins>FAQ</ins>:
-
-#
+## <ins>FAQ</ins>:
 
 ##### **Q**: How can I add a camera ?
 ##### **A**: You can add a camera by editing the `.env`
